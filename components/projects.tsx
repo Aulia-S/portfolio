@@ -29,6 +29,39 @@ export default function Projects() {
 
 const projects = [
   {
+    title: 'Kerjoo App',
+    url: 'https://app.kerjoo.com/',
+    image: kjoa,
+  },
+  {
+    title: 'Kerjoo Company Profile',
+    url: 'https://kerjoo.com/',
+    image: kjo,
+  },
+  {
+    title: 'Kerjoo Blog',
+    url: 'https://kerjoo.com/blog/',
+    image: kjob,
+  },
+  {
+    title: 'Hariapa',
+    github: 'https://github.com/Aulia-S/hariapa',
+    url: 'https://hariapa.vercel.app/',
+    image: hrp,
+  },
+  {
+    title: 'Notebook',
+    github: 'https://github.com/Aulia-S/notebook',
+    url: 'https://aulia-notebook.vercel.app/',
+    image: ntb,
+  },
+  {
+    title: 'Ramadhan Rundown',
+    github: 'https://github.com/Aulia-S/ramadhan-rundown',
+    url: 'https://ramadhan-rundown.netlify.app/',
+    image: rr,
+  },
+  {
     title: 'Placegram',
     github: [
       {
@@ -42,39 +75,6 @@ const projects = [
     ],
     url: 'https://placegram.netlify.app/',
     image: pg,
-  },
-  {
-    title: 'Hariapa',
-    github: 'https://github.com/Aulia-S/hariapa',
-    url: 'https://hariapa.vercel.app/',
-    image: hrp,
-  },
-  {
-    title: 'Kerjoo',
-    url: 'https://kerjoo.com/',
-    image: kjo,
-  },
-  {
-    title: 'Notebook',
-    github: 'https://github.com/Aulia-S/notebook',
-    url: 'https://notebook-aulia-s.vercel.app/',
-    image: ntb,
-  },
-  {
-    title: 'Ramadhan Rundown',
-    github: 'https://github.com/Aulia-S/ramadhan-rundown',
-    url: 'https://ramadhan-rundown.netlify.app/',
-    image: rr,
-  },
-  {
-    title: 'Kerjoo App',
-    url: 'https://app.kerjoo.com/',
-    image: kjoa,
-  },
-  {
-    title: 'Kerjoo Blog',
-    url: 'https://kerjoo.com/blog/',
-    image: kjob,
   },
   {
     title: 'Acak Surah',
